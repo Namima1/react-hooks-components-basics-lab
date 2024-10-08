@@ -18,7 +18,7 @@ function Home() {
 
 function About() {
   return (
-    <div id="About">
+    <div id="about">
       <h1>About</h1>
     </div>
   );
